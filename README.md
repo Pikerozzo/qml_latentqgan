@@ -1,2 +1,3 @@
-# qml_latentqgan
-A study on Hybrid Quantum-Classical Latent GANs with AutoEncoders, exploring their effectiveness in image generation.
+# Analyzing LatentQGAN: A Hybrid Quantum-Classical GAN with Autoencoders
+
+Generative models have achieved significant success in capturing complex data distributions and generating realistic samples across various domains. However, training these models, particularly Generative Adversarial Networks (GANs), remains computationally demanding, especially for high-dimensional data. Quantum computing offers a promising avenue to address these challenges by leveraging principles such as superposition and entanglement. In this context, LatentQGAN integrates classical and quantum computing to enhance GAN training, enabling the generation of more expressive and complex data distributions beyond the capabilities of purely classical approaches.

@@ -169,3 +169,8 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+src/*.pth
+docs/imgs/
+docs/*.docx
+docs/2409.14622v4.pdf
